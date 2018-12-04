@@ -62,3 +62,13 @@
 
            缺点：负载能力受服务器本身性能的影响，性能越好，负载能力越大
 </pre>
+
+
+![](https://i.imgur.com/yhJNclJ.png)
+
+
+![](https://i.imgur.com/7RfkOms.png)
+
+<pre>
+大型网站系统集群架构
+</pre>
